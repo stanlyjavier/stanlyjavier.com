@@ -43,6 +43,39 @@ p{
 	width: 32px;
 }
 
+.row > .iconos > ul li div{
+  width: 32px;
+  height: 32px;
+}
+
+//Social icons
+
+.icons{
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+div.linkedin {
+  background: url(../images/icons.png) 0 0 no-repeat;
+}
+
+div.twitter {
+  background: url(../images/icons.png) -33px 0 no-repeat;
+}
+
+div.behance {
+  background: url(../images/icons.png) -99px 0 no-repeat;
+}
+
+div.dribbble {
+  background: url(../images/icons.png) -66px 0 no-repeat;
+}
+
+div.vimeo {
+  background: url(../images/icons.png) -131px 0 no-repeat;
+}
+
 /*Animaciones*/
 
 .animated {
